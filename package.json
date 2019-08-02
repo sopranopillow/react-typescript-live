@@ -22,16 +22,21 @@
     "stack:upgrade": "just-scripts upgrade-stack"
   },
   "dependencies": {
+    "create-react-context": "^0.3.0",
+    "css-loader": "^3.1.0",
+    "monaco-editor": "^0.17.1",
+    "monaco-editor-webpack-plugin": "^1.7.0",
     "office-ui-fabric-react": "^7.4.3",
     "react": "~16.8.0",
     "react-dom": "~16.8.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
-    "@types/react-dom": "~16.8.0",
     "@types/react": "~16.8.0",
+    "@types/react-dom": "~16.8.0",
     "just-scripts": "^0.18.0",
-    "just-stack-uifabric": ">=0.11.4"
+    "just-stack-uifabric": ">=0.11.4",
+    "prettier": "^1.18.2"
   },
   "just": {
     "stack": "just-stack-uifabric"
