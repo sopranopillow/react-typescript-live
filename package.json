@@ -22,6 +22,8 @@
     "stack:upgrade": "just-scripts upgrade-stack"
   },
   "dependencies": {
+    "buble": "^0.19.8",
+    "core-js": "^3.2.1",
     "create-react-context": "^0.3.0",
     "css-loader": "^3.1.0",
     "monaco-editor": "^0.17.1",
