@@ -37,7 +37,7 @@
     "@types/react": "~16.8.0",
     "@types/react-dom": "~16.8.0",
     "just-scripts": "^0.18.0",
-    "just-stack-uifabric": ">=0.11.4",
+    "just-stack-uifabric": ">=1.0.2",
     "prettier": "^1.18.2"
   },
   "just": {
